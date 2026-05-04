@@ -107,11 +107,11 @@ export default function LandingPage() {
       useInvertedBackground={true}
       plans={[
         {
-          id: "basic",          name: "Basic Plan",          price: "25k / month",          badge: "Starter Growth",          buttons: [{ text: "Get Started", href: "#" }],
+          id: "basic",          name: "Basic Plan",          price: "25k / month",          badge: "Starter Growth",          buttons: [{ text: "Select Basic Plan", href: "#" }],
           features: ["8 Social Posts/mo", "4 Reels", "Hashtag Strategy", "Basic Analytics"]
         },
         {
-          id: "standard",          name: "Standard Plan",          price: "50k / month",          badge: "Business Boost",          buttons: [{ text: "Start Scaling", href: "#" }],
+          id: "standard",          name: "Standard Plan",          price: "50k / month",          badge: "Business Boost",          buttons: [{ text: "Start Your Growth", href: "#" }],
           features: ["15 Social Posts/mo", "8 Reels", "Trend Research", "Basic Ad Setup"]
         },
         {
